@@ -4,6 +4,8 @@
 2. 通过行为树实现敌人的对主角的追逐、攻击。 
 3. 实现WFC算法的地图、出生点位、敌人分布的随机生成。 
 4. 实现进入游戏的简单关卡跳转UI。
+演示视频
+<video controls src="demo.mp4" title="Title"></video>
 
 # 玩家角色
 以UE默认的TopDown小人为基础进行调整，在角色 character 上实现角色能完成的各类动作，和各类数值初始化，在 controller 上实现各类技能的抽象逻辑
